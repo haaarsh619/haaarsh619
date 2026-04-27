@@ -1,10 +1,57 @@
 ![MasterHead](https://github.com/haaarsh619/haaarsh619/assets/72140070/efd011c9-a11c-4b8d-8824-1aaec7f880ed)
 
-<img img align="right" alt="Coding" width="400" src="https://c.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif">
+<p align="center">
+<img img align="center" alt="Coding" width="200" src="https://c.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif">
+</p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<h3 align="center">🚀 Frontend Development</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" height="42" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vue" height="42" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" height="42" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" height="42" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="42" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwindcss" height="42" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sass" height="42" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="42" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" height="42" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=redux" height="42" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=threejs" height="42" />&nbsp;&nbsp;
+  <img style="background:#242938; border-radius:8px;" src="https://gsap.com/community/uploads/monthly_2020_03/tweenmax.thumb.png.c849c5b56c6752e3f2276b82ee702625.png" height="42" alt="GSAP logo" />
+</p>
+
+<h3 align="center">🛠️ Backend & Database</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="42" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" height="42" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" height="42" />&nbsp;&nbsp;
+  <img style="background:#242938; border-radius:8px;" src="https://img.icons8.com/color/96/mongoose.png" height="42" alt="Mongoose logo" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" height="42" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nestjs" height="42" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="42" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=prisma" height="42" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" height="42" />&nbsp;&nbsp;
+  <img style="background:#242938; border-radius:8px;" src="https://img.icons8.com/?size=96&id=rHpveptSuwDz&format=png" height="42" alt="JWT logo" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=graphql" height="42" />
+</p>
+
+<h3 align="center">⚙️ Tools & DevOps</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="42" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="42" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="42" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" height="42" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" height="42" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" height="42" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vitest" height="42" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cypress" height="42" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=jest" height="42" />
+</p>
+
+---
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haaarsh619&show_icons=true&locale=en&layout=compact" alt="haaarsh619" /></p>
 
